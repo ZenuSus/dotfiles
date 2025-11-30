@@ -1,4 +1,4 @@
-# MyConfigs
+# My dotfiles
 ## What is this
   My system (hyprland, waybar and etc.) configs and some stuff
   
