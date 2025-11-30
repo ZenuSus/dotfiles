@@ -3,8 +3,6 @@
   My system (hyprland, waybar and etc.) configs and some stuff
   
 ## Preview
-https://github.com/user-attachments/assets/54af1c5e-287d-4833-a3fc-5d7cd2510029
-<br>
 ![Screenshot 1](/assets/pic1.png)
 
 
