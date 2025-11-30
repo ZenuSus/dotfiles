@@ -2,8 +2,10 @@
 ## What is this
   My system (hyprland, waybar and etc.) configs and some stuff
   
-
+## Preview
 https://github.com/user-attachments/assets/54af1c5e-287d-4833-a3fc-5d7cd2510029
+<br>
+![Screenshot 1](/assets/pic1.png)
 
 
 ## Installing
@@ -19,4 +21,12 @@ https://github.com/user-attachments/assets/54af1c5e-287d-4833-a3fc-5d7cd2510029
   Mako - mako config <br>
   Rofi - rofi theme <br>
   Waybar - waybar config <br>
-  Wlogout - wlogout config
+  Wlogout - wlogout config <br>
+  Kitty - kitty config
+
+## Using guide
+  Close window - super + C
+  Rofi - super + R
+  Terminal - super + Q
+  Toggle window floating mode - super + shift + F
+  Switch between workspaces - super + 1-9
