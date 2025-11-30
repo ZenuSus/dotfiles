@@ -23,8 +23,8 @@
   Kitty - kitty config
 
 ## Using guide
-  Close window - super + C
-  Rofi - super + R
-  Terminal - super + Q
-  Toggle window floating mode - super + shift + F
+  Close window - super + C <br>
+  Rofi - super + R <br>
+  Terminal - super + Q <br>
+  Toggle window floating mode - super + shift + F <br>
   Switch between workspaces - super + 1-9
